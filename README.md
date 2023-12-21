@@ -4,4 +4,5 @@
 <p>Anyways, here are instructions.</p>
 <h3>Instructions</h3>
 <p>1: Make a github account and fork this repo.</p>
-<p>2: Click on code </p>
+<p>2: Click on the green &lt;&gt;Code &or; button.</p>
+<p>3: Click on codespaces.</p>
