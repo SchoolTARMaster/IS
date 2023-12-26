@@ -12,4 +12,4 @@
 <p>Click on OVERRIDE next to Install Command and type npm install.</p>
 <p>Click on the white deploy button.</p>
 <p>Wait for 30 seconds or more.</p>
-<p>You will see a big screen on the right. Click on it. Done !</p>
+<p>You will see a big screen on the left. Click on it. Done !</p>
