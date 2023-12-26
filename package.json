@@ -1,7 +1,5 @@
 {
-  "name": "",
-  "version": "1.0.0",
-  "type": "",
+  "type": "module",
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=16.0.0"
